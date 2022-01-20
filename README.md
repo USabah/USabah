@@ -1,5 +1,5 @@
-Hello, my name is Uriya Sabah. I'm currently a Junior at Hofstra University majoring in computer science. I've very interested in backend languages and learning
-about the logic behind the functionality of technology we use on a daily basis. I'm currently looking to gain more experience developing real-world projects which
+Hello, my name is Uriya Sabah. I'm currently a Junior at Hofstra University majoring in computer science. I'm very interested in backend technologies and learning
+about the logic behind the functionality of technology we use on a daily basis. I also plan on learning data science and machine learning techniques in the very near future. I'm currently looking to gain more experience developing real-world projects which
 are useful and accessible to others.
 I can be reached through my email: USabah1@pride.hofstra.edu
 or through my LinkedIn account: https://www.linkedin.com/in/uriya-sabah-7287b7192/
