@@ -1,8 +1,6 @@
-Hello, my name is Uriya Sabah. I'm currently a Junior at Hofstra University majoring in computer science. I'm very interested in backend technologies and learning
-about the logic behind the technology we use on a daily basis. I am currently taking data science, machine learning, and AI courses as I am planning on doing research for Northwell Health in the Summer of 2022 using ML. I'm currently looking to gain more experience developing real-world projects which
-are useful and accessible to others.
+Hello, my name is Uriya Sabah. I've recently graduated with a Master of Computer Science degree at Hofstra University. My general interests lie in backend software development, data science, and mobile/web application development. I have had the opportunity to do research for Hofstra and Hofstra/Northwell throughout my studies, and have also worked alongisde Hofstra Law and Computer Science students for the launch of their Legal-Tech Fellowship.
 
-Currently, the best place to reach me is my school email: USabah1@pride.hofstra.edu
+Currently, the best place to reach me is my email: uriyasabah309@gmail.com
 I can also be reached through my LinkedIn account: https://www.linkedin.com/in/uriya-sabah-7287b7192/
 
 <!---
